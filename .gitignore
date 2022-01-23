@@ -198,9 +198,9 @@ dmypy.json
 
 
 # modules
-/controllers/__pycache__
-/models/__pycache__
-/schema/__pycache__
-server/__pycache__
+\controllers\__pycache__
+\models\__pycache__
+\schema\__pycache__
+\server\__pycache__
 
 # End of https://www.gitignore.io/api/flask,python,visualstudiocode
