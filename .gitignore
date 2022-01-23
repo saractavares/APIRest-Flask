@@ -196,6 +196,7 @@ dmypy.json
 # Ignore all local history of files
 .history
 
+
 # modules
 /controllers/__pycache__
 /models/__pycache__
